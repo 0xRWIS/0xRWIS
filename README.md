@@ -1,6 +1,8 @@
 # 👨‍💻 A Passionate Full-Stack Developer && Computer Enthusiast
 
-- 🔭 I’m currently working on **Backend Projects**  
+- 🔭 I’m currently working on **Backend Projects**
+
+    [![wakatime](https://wakatime.com/badge/user/77713db4-6711-4800-90bc-50d3707573f9.svg)](https://wakatime.com/@77713db4-6711-4800-90bc-50d3707573f9)
 
 
 ## 💻 Languages and Tools:
@@ -8,7 +10,7 @@
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,react,css,tailwindcss,html,express,nodejs,mysql,vscode,vim" />
+        <img src="https://skillicons.dev/icons?i=javascript,react,css,tailwindcss,html,express,nodejs,mysql,vscode" />
     </a>
 </div>
 
