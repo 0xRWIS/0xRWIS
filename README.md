@@ -1,8 +1,14 @@
 # 👨‍💻 A Passionate Full-Stack Developer && Computer Enthusiast
 
-- 🔭 I’m currently working on **Backend Projects**
+- 🔭 I’m currently working on **FrontEnd Projects**
 
-    [![wakatime](https://wakatime.com/badge/user/77713db4-6711-4800-90bc-50d3707573f9.svg)](https://wakatime.com/@77713db4-6711-4800-90bc-50d3707573f9)
+  <p align="center">
+  <a href="https://wakatime.com/@77713db4-6711-4800-90bc-50d3707573f9">
+    <img src="https://wakatime.com/badge/user/77713db4-6711-4800-90bc-50d3707573f9.svg" alt="wakatime" width="270">
+  </a>
+</p>
+
+
 
 
 ## 💻 Languages and Tools:
