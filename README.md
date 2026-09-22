@@ -35,4 +35,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xRWIS&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<p align="center">
+  <img width="480" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=0xrwis&accent=8b0000&cell=circle&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="480" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=0xrwis&accent=8b0000&cell=circle&hide_border=true"/>
+</p>
 
