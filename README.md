@@ -36,10 +36,10 @@
 
 
 <p align="center">
-  <img width="480" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=0xrwis&accent=8b0000&cell=circle&hide_border=true"/>
+  <img width="480" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=0xrwis&accent=4b0082&cell=circle&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="480" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=0xrwis&accent=8b0000&cell=circle&hide_border=true"/>
+  <img width="480" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=0xrwis&accent=4b0082&cell=circle&hide_border=true"/>
 </p>
 
