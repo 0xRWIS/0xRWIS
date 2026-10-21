@@ -1,4 +1,4 @@
-# 👨‍💻 A Passionate Full-Stack Developer && Computer Enthusiast
+# 👨‍💻 Full-Stack Developer && Computer Enthusiast
 
 - 🔭 I’m currently working on **FrontEnd Projects**
 
