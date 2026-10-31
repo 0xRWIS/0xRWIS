@@ -38,10 +38,12 @@
 
 
 <p align="center">
-  <img width="480" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=0xrwis&accent=4b0082&cell=circle&hide_border=true"/>
+  <!--<img width="480" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=0xrwis&accent=4b0082&cell=circle&hide_border=true"/>-->
+  <img src="https://gh-profile-stats.netlify.app/api/langs?username=0xrwis&theme=tokyonight&layout=horizontal_list" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="480" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=0xrwis&accent=4b0082&cell=circle&hide_border=true"/>
+  <!--<img width="480" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=0xrwis&accent=4b0082&cell=circle&hide_border=true"/>-->
+  <img src="https://gh-profile-stats.netlify.app/api/card?username=0xrwis&theme=tokyonight&hide=grade%2Cavg" alt="GitHub Stats Card" />
 </p>
 
